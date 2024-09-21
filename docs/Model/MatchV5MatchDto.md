@@ -1,0 +1,11 @@
+# MatchV5MatchDto
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**metadata** | [**\Swagger\Client\Model\MatchV5MetadataDto**](MatchV5MetadataDto.md) | Match metadata. | 
+**info** | [**\Swagger\Client\Model\MatchV5InfoDto**](MatchV5InfoDto.md) | Match info. | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
